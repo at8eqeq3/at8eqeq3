@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+I'm Dmitry and I'm:
+
 * 🥚 Engineer @ MTS Digital
 * 📷 Taking photos and maintaining a [daily picture website](https://www.dxfoto.ru)
-* Linux admin, Ruby programming, learning random stuff ([at8eqeq3.me](https://at8eqeq3.me))
+* Linux user, Ruby programming, learning random stuff ([at8eqeq3.me](https://at8eqeq3.me))
 
 <!--
 **at8eqeq3/at8eqeq3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
